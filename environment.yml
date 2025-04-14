@@ -1,0 +1,9 @@
+name: engsci_263_cm
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scikit-learn
+  - scipy
+  - pandas
+  - matplotlib
